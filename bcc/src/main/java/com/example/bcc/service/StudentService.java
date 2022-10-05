@@ -23,4 +23,7 @@ public interface StudentService {
 	public String kodeUnik(String nim);
 	
 	public String addPass(String pass);
+	
+	String a="";
+
 }
